@@ -1,7 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["boardsource/unicorne", "mymap"],
-        ["boardsource/unicorne", "mymap_left"]
+        ["boardsource/unicorne", "mymap"]
     ]
 }
